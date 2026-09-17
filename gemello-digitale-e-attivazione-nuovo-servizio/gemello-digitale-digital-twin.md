@@ -6,6 +6,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -22,13 +23,15 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 📔 Gemello Digitale - Digital Twin
 
 Per avviare un nuovo progetto o servizio sulla piattaforma Saferplaces, è necessario generare un Digital Twin dell'area di interesse.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Digital Replica </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Digital Replica </p></figcaption></figure>
 
 {% content-ref url="creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse/" %}
 [creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse](creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse/)

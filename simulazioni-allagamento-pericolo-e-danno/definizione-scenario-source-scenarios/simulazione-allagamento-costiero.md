@@ -103,9 +103,9 @@ Modello UNTRIM - Nel caso si sia selezionato il modello idrodinamico [untrim.md]
 * Delta T - Passo di imntegrazione numerico (sec) - Si consiglia di selezionare il passo di integrazione pari a 6 secondi.
 * Ti - Time Shot Interval (min) - Qui si definisce l'intervallo temporale di produzione degli output
 
-<img src="../../.gitbook/assets/image (51).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (71).png" alt="" data-size="original">
 
-<img src="../../.gitbook/assets/image (52).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (72).png" alt="" data-size="original">
 
 
 
@@ -122,7 +122,7 @@ Il calcolo del Danno Economico viene eseguito in prima analisi applicando le seg
 1. Tutti gli edifici cono considerati residenziali con un curva di vulnerabilità residenziale
 2.  Valore dell'edificio pari a 1000 euro/mq<br>
 
-    <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

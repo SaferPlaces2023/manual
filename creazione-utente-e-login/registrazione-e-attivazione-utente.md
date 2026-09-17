@@ -6,6 +6,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -22,13 +23,15 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 💡 Registrazione e Attivazione Utente
 
 La Registrazione e l'attivazione dell'utente può essere richiesta cliccando "CREATE AN ACCOUNT" presente in basso nella finestra di LOGIN
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Pagina di Log in - CREAZIONE ACCOUNT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Pagina di Log in - CREAZIONE ACCOUNT</p></figcaption></figure>
 
 
 

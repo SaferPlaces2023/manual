@@ -4,7 +4,7 @@ icon: magnifying-glass
 
 # Barra Laterale destra
 
-A destra della schermata principale, troverai un pannello che elenca tutti i layer geospaziali ("layers") utilizzati per l'attivazione del  [gemello-digitale-digital-twin.md](../gemello-digitale-e-attivazione-nuovo-servizio/gemello-digitale-digital-twin.md "mention") e i layer relativi ai risultati delle [Broken link](/broken/pages/bkKmSWCzopoSCuv12rbq "mention").
+A destra della schermata principale, troverai un pannello che elenca tutti i layer geospaziali ("layers") utilizzati per l'attivazione del  [gemello-digitale-digital-twin.md](../gemello-digitale-e-attivazione-nuovo-servizio/gemello-digitale-digital-twin.md "mention") e i layer relativi ai risultati delle [Simulazioni Allagamento - Pericolo e Danno](https://app.gitbook.com/s/6c2VPF8JkgWbiOXryLoV/simulazioni-allagamento-pericolo-e-danno "mention").
 
 I layers geospaziali del progetto sono organizzati nei seguenti gruppi di layers:
 
@@ -31,7 +31,7 @@ I layers geospaziali del progetto sono organizzati nei seguenti gruppi di layers
 
 Facendo clic con il pulsante destro del mouse su ciascun layer o relativo gruppo , l'utente può attivare alcune funzioni utili elencate nella figura&#x20;
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 In particolare è possibile:
 

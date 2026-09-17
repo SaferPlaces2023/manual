@@ -6,6 +6,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -22,6 +23,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 💻 Creazione Digital Twin e attivazione del servizio nell'area di interesse - SOLO UTENTI ADBPO
@@ -34,7 +37,7 @@ Accedere alla piattaforma tramite il link: [test.saferplaces.co](http://test.saf
 
 Cliccando sull'icona "_Create a project_", si avvia l'interfaccia che aiuta ad attivare il servizio e a generare il Digital Twin per l'area designata di interesse.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption><p>Create a new project</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p>Create a new project</p></figcaption></figure>
 
 A questo punto i due passi principali da seguire per attivare il servizio sono:
 
@@ -51,7 +54,7 @@ Nell'header in alto di fianco al logo di SaferPlaces è presenta una casella di 
 * indirizzi  - icona globo
 * bacini idrografici - icona layer
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,11 +67,11 @@ In entrambi i casi è possibile selezionare la risoluzione a 2 metri oppure 1 me
 
 La prima modalità si basa sulla selezione di uno o più province, tramite il pulsante SELECT BY BASIN. Basta cliccare con il mouse sulla provincia di interesse oppure tenere premuto il pulsante Shift per selezioni multiple.
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption><p>Select by Basin</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption><p>Select by Basin</p></figcaption></figure>
 
 La seconda modalità invece consente di attivare l'AOI attraverso la definizione di un'area rettangolare, cliccando sul pulsante SELECT BY AREA. Per disegnare il rettangolo nell'ambiente di mappatura basta tenere premuto il tasto Shift e il tasto sinistro del mouse fino a disegnare un rettangolo che copre l'area di interesse.
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption><p>Select by Area</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption><p>Select by Area</p></figcaption></figure>
 
 Sul pannello di destra sono elencati i layers disponibili nell'area di interesse, che possono essere visualizzati anche nella fase di attivazione. Alcuni layers fanno riferimento a dati forniti da ADBPO.
 

@@ -7,6 +7,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -22,6 +23,8 @@ layout:
   tags:
     visible: true
   actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
@@ -45,7 +48,7 @@ Lo strumento "_Mitigations_" (Mitigazione) della [barra-superiore.md](../saferpl
 
 Lo strumento "_Damage Preview_" (Anteprima dei danni) mostra un pannello con la previsione dei danni in termini di danno annuo previsto (EAD - _Expected Annual Damage_) calcolati per diversi tempi di ritorno (2, 5, 10, 50, 100 anni), scenari di base (da dati ERA5 Land e Copernicus/NASA) e scenari climatici (SSP4.5 e 8.5) da proiezioni climatiche globali CMIP6, proiettati al 2050 o 2100. Un esempio è illustrato nella figura seguente:
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Pannello di previsione dei danni, ottenuto con lo strumento “<em>Damage Preview</em>”.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption><p>Pannello di previsione dei danni, ottenuto con lo strumento “<em>Damage Preview</em>”.</p></figcaption></figure>
 
 
 

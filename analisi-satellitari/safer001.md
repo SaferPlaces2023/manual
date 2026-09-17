@@ -20,7 +20,7 @@ L'area allagata farà riferimento ad uno specifico evento temporale della durata
 
 \- _DEM_: il miglior DEM disponibile sarà passato al modulo Safer001.
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption><p>Safer001 - Estrazione automatica della maschera di acqua alluvionale</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption><p>Safer001 - Estrazione automatica della maschera di acqua alluvionale</p></figcaption></figure>
 
 
 

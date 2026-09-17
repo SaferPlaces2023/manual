@@ -6,6 +6,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -21,6 +22,8 @@ layout:
   tags:
     visible: true
   actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
@@ -68,11 +71,11 @@ Puoi scaricare gli output generati come file raster Geotiff o shapefile vettoria
 
 <summary>Section  - Sezione Trasversale</summary>
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (30).png>)
 
 Lo strumento "Sezione" ti consente di determinare facilmente la profondità dell'acqua per un'area specifica tracciando una linea su qualsiasi layer di profondità dell'acqua. Una nuova finestra in basso sullo schermo mostra la sezione trasversale dell'area selezionata.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (31).png>)
 
 </details>
 
@@ -80,7 +83,7 @@ Lo strumento "Sezione" ti consente di determinare facilmente la profondità dell
 
 <summary>“<em>Identify</em> " </summary>
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (34).png>)
 
 Lo Strumento _Identifica_ fornisce informazioni in un punto specifico per i layer geospaziali attivi.
 
@@ -88,7 +91,7 @@ Lo Strumento _Identifica_ fornisce informazioni in un punto specifico per i laye
 
 I risultati appariranno nel pannello delle attività corrispondente sulla sinistra.
 
-<img src="../.gitbook/assets/image (13).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (33).png" alt="" data-size="original">
 
 
 
@@ -100,7 +103,7 @@ I risultati appariranno nel pannello delle attività corrispondente sulla sinist
 
 <summary>"<em>Bluespots</em>" </summary>
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (35).png>)
 
 Lo strumento "_Bluespots_" è un tool di analisi specifica dei risultati relativi a [simulazione-allagamento-pluviale.md](../simulazioni-allagamento-pericolo-e-danno/definizione-scenario-source-scenarios/simulazione-allagamento-pluviale.md "mention") ottenute dal modello [safer\_rain.md](../simulazioni-allagamento-pericolo-e-danno/modelli-di-allagamento-hazard-saferplaces/safer_rain.md "mention").&#x20;
 
@@ -111,7 +114,7 @@ Una volta attivato, si accenderanno automaticamente nella [barra-laterale-sinist
 * i bacini (VERDE) che afferiscono volume verso il bluespot in esame (BLUE)
 * i bacini (ROSSO) che riceveono volume dal bacino in esame (BLUE)
 
-<img src="../.gitbook/assets/image (16).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (36).png" alt="" data-size="original">
 
 Nella [barra-laterale-sinistra.md](../saferplaces-interfaccia-gui-web/barra-laterale-sinistra.md "mention")le voci del bilancio idrologico sono le seguenti:
 
@@ -134,7 +137,7 @@ Nella [barra-laterale-sinistra.md](../saferplaces-interfaccia-gui-web/barra-late
 
 <summary>"<em>Volume Chart</em>” e “<em>Damage Chart</em>”</summary>
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (39).png>)
 
 Nella [barra-superiore.md](../saferplaces-interfaccia-gui-web/barra-superiore.md "mention") sono presenti due strumenti dedicati per interrogare sia i layer di allagamento che di danno economico mediante uno strumento di selezione areale (poligono).
 
@@ -148,9 +151,9 @@ ATTENZIONE - Attivare sempre un layer oggetto dell'analisi altrimenti non si vis
 
 
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (40).png>)
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (41).png>)
 
 
 

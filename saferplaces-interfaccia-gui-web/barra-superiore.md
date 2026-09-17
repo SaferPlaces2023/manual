@@ -6,17 +6,17 @@ icon: pen-ruler
 
 Nell'header supriore di fianco al logo SaferPlaces è presente una casella per la ricerca degli indirizzi e località.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Nella barra superiore sono presenti molti strumenti, come mostrato nella figura sottostante e descritti in tabella.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Strumenti della barra superiore</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Strumenti della barra superiore</p></figcaption></figure>
 
 <details>
 
 <summary>strumenti di navigazione mappa</summary>
 
-<img src="../.gitbook/assets/image (24).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (44).png" alt="" data-size="original">
 
 in alto a sinistra sono presenti alcuni strumenti di base, in ordine da sinistra verso destra sono presenti:
 
@@ -38,7 +38,7 @@ in alto a sinistra sono presenti alcuni strumenti di base, in ordine da sinistra
 
 <summary>strumenti specifici per le simulazioni di allagamento</summary>
 
-<img src="../.gitbook/assets/image (28).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (48).png" alt="" data-size="original">
 
 * Strumento denominato “_Rain”_ per disegnare e localizzare un evento pluviometrico in corrispondenza di una sotto-area all'interno del dominio [#definizione-e-caratterizzazione-dellevento-pluviale-pluvial-scenario-1-rain](../simulazioni-allagamento-pericolo-e-danno/definizione-scenario-source-scenarios/simulazione-allagamento-pluviale.md#definizione-e-caratterizzazione-dellevento-pluviale-pluvial-scenario-1-rain "mention") ( [simulazione-allagamento-pluviale.md](../simulazioni-allagamento-pericolo-e-danno/definizione-scenario-source-scenarios/simulazione-allagamento-pluviale.md "mention"))
 * strumento denominato _“Draw_ _Barrier”,_ per disegnare e localizzare barriere fisiche come azioni di mitogazione [#barriere-fisiche-3-barriers](../simulazioni-allagamento-pericolo-e-danno/definizione-scenario-source-scenarios/simulazione-allagamento-costiero.md#barriere-fisiche-3-barriers "mention") ( [misure-di-mitigazione-del-rischio-di-alluvione.md](../misure-di-mitigazione/misure-di-mitigazione-del-rischio-di-alluvione.md "mention"))
@@ -53,7 +53,7 @@ in alto a sinistra sono presenti alcuni strumenti di base, in ordine da sinistra
 
 <summary>strumenti per analisi dei risultati delle simulazioni</summary>
 
-<img src="../.gitbook/assets/image (26).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (46).png" alt="" data-size="original">
 
 In questo gruppo sono presenti alcuni tools per l'analisi dei irsultati generati dalle simulazioni di allgamento e calcolo del danno economico.
 
@@ -64,7 +64,7 @@ Una descrizione dettagliata è presente in [visualizzazione-dei-risultati.md](..
 * Identificazione  [#identify](../risultati/visualizzazione-dei-risultati.md#identify "mention")
 * Analisi e bilancio idrico dei [#bluespots](../risultati/visualizzazione-dei-risultati.md#bluespots "mention")
 
-Si veda il capitolo sui risultati ( [Broken link](/broken/pages/AnL0MYK3P1KznpPRgCLk "mention")) per maggiori approfondimenti sulla funzione dei singoli strumenti.&#x20;
+Si veda il capitolo sui risultati ( [RISULTATI](https://app.gitbook.com/s/6c2VPF8JkgWbiOXryLoV/risultati "mention")) per maggiori approfondimenti sulla funzione dei singoli strumenti.&#x20;
 
 </details>
 
@@ -94,7 +94,7 @@ Selezionando uno o più edifici (tenendo premuto il tasto destro del mouse è po
 
 <summary>strumenti di processamento dati satellitari</summary>
 
-<img src="../.gitbook/assets/image (30).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (50).png" alt="" data-size="original">
 
 Infine, lo strumento “_Satellite_” consente all'utente di attivare 3 funzioni satellitari:
 
@@ -102,7 +102,7 @@ Infine, lo strumento “_Satellite_” consente all'utente di attivare 3 funzion
 * Safer 002
 * Safer 003
 
-Si rimanda al capitolo con la descrizione degli strumenti satellitari per maggiori approfondimenti ( [Broken link](/broken/pages/dinW0pnG7pZq4CcSbYPV "mention"))
+Si rimanda al capitolo con la descrizione degli strumenti satellitari per maggiori approfondimenti ( [Analisi satellitari](https://app.gitbook.com/s/6c2VPF8JkgWbiOXryLoV/analisi-satellitari "mention"))
 
 </details>
 

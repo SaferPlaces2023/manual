@@ -6,6 +6,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -22,6 +23,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 💡 SaferPlaces Login
@@ -30,7 +33,7 @@ layout:
 
 
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Pagina di Log in</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Pagina di Log in</p></figcaption></figure>
 
 {% embed url="https://drive.google.com/open?id=1DT1XKD9rWGJbwU6B444ZOHuR9P8w8qjp&usp=drive_fs" %}
 

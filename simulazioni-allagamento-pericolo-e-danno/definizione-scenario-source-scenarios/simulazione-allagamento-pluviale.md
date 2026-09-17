@@ -37,7 +37,7 @@ L'utente può definire l'intensità di pioggia in mm in tre modi diversi:
 
 L'utente può definire la durata dell'evento pluviale in ore (h) tramite il box "Total duration of the rainfall event".
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption><p>1 - RAIN </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption><p>1 - RAIN </p></figcaption></figure>
 
 </details>
 
@@ -49,7 +49,7 @@ Gli utenti possono attivare il modulo di infiltrazione nel terreno durante l'ese
 
 Il Modulo di Infiltrazione si basa sul Modello Green-Ampt e utilizza dati di input dai layer definiti nello [step-3-tasso-di-infiltrazione-raster-geotiff.md](../../gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse/step-3-tasso-di-infiltrazione-raster-geotiff.md "mention") e [step-4-litologia-raster-geotiff.md](../../gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse/step-4-litologia-raster-geotiff.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption><p>2 - INFILTRATION</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption><p>2 - INFILTRATION</p></figcaption></figure>
 
 </details>
 
@@ -65,7 +65,7 @@ Per generare una Storage Tank, cliccare su "NEW". Questo permette di posizionare
 
 Nel riquadro "Select Storage Tanks to simulate", l'utente può selezionare o rimuovere le Vasche di Accumulo presenti. Con "REMOVE ALL" si deselezionano tutte le vasche selezionate.
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p>3 - storage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption><p>3 - storage</p></figcaption></figure>
 
 </details>
 
@@ -108,7 +108,7 @@ L'attivazione del modello di calcolo del Danno Economico procede spuntando il ch
 
 In questa sezione del Wizard, l'utente, tramite il pulsante EDIT, ha la possibilità di aggiungere o togliere dettagli descrittivi alle note riassuntive sulla simulazione, che ha appena creato, che vengono scritte di default.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -147,7 +147,7 @@ Il calcolo del danno economico viene eseguito inizialmente con le seguenti ipote
 1. Tutti gli edifici sono considerati residenziali, utilizzando una curva di vulnerabilità residenziale.
 2. Valore dell'edificio fissato a 1000 euro/mq.
 
-<img src="../../.gitbook/assets/image (49).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (69).png" alt="" data-size="original">
 
 
 

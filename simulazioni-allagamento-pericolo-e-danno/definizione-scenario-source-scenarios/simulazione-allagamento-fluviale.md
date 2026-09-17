@@ -42,7 +42,7 @@ Il primo passo di 1-RIVER riguarda l'identificazione e la caratterizzazione dell
 
 Gli utenti possono generare e localizzare molteplici eventi di rilascio fluviale, determinati da Rottura Arginale o Sormonto Arginale, utilizzando il pulsante "ADD RIVER EVENT".
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption><p>ADD RIVER EVENT</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption><p>ADD RIVER EVENT</p></figcaption></figure>
 
 Dopo avere cliccato sul pulsante si attiva il Tool River che permette di definire sulla mappa i punti di rilascio fluviale.&#x20;
 
@@ -53,11 +53,11 @@ Una volta attivato, il Tool River permette agli utenti di definire i punti di ri
 * **CLEAR**: Elimina tutti i punti di rilascio.
 * Definizione del Volume del rilascio tramite slider o direttamente nella casella di testo
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption><p>Edit punti di rilascio</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Edit punti di rilascio</p></figcaption></figure>
 
 Dopo aver aggiunto tutti i punti di rilascio fluviale nel dominio di calcolo, cliccando su "BACK TO THE WIZARD" (posizionato a sinistra dell'area di mappatura) gli utenti ritornano a una finestra di riepilogo. Questa finestra mostra il numero totale di punti definiti (rappresentanti eventuali brecce o sormonti arginali) e il volume totale rilasciato sull'area del dominio.
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption><p>Back to wizard</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Back to wizard</p></figcaption></figure>
 
 Gli utenti devono definire la **Durata Totale dell'Evento Fluviale** per tutti i punti generati, utilizzata nel modello idrodinamico UNTRIM. La durata è definita in ore (h) e si applica uniformemente a tutti i punti di rilascio definiti. Non è permesso definire durate specifiche per singoli punti di rilascio.
 
@@ -104,11 +104,11 @@ Nel caso si selezioni il modello [untrim.md](../modelli-di-allagamento-hazard-sa
 * Slider - Tempo di integrazione numerico  (min) -Delta T - Time simulation step
 * Slider - Frequenza Stampa Output  (min) -Ti - Time shoot interval
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 L'attivazione del modello di calcolo del Danno Economico procede spuntando il check-box "Apply Damage"
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -134,7 +134,7 @@ Nel caso delle simulazioni Fluviali si attiva automaticamente il codice [safer\_
 
 Per tale modello di calcolo non sono necessari ulteriori parametri.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 **Modello UNTRIM:** Se si sceglie il modello idrodinamico UNTRIM, è fondamentale specificare diversi parametri di simulazione tramite gli slider:
 
@@ -144,9 +144,9 @@ Per tale modello di calcolo non sono necessari ulteriori parametri.&#x20;
 * **Delta T - Passo di Integrazione Numerico (sec):** Si consiglia un passo di integrazione di 6 secondi.
 * **Ti - Intervallo di Tempo per gli Output (min):** Definire l'intervallo per la produzione degli output.
 
-<img src="../../.gitbook/assets/image (51).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (71).png" alt="" data-size="original">
 
-<img src="../../.gitbook/assets/image (52).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (72).png" alt="" data-size="original">
 
 
 
@@ -165,7 +165,7 @@ Nella sezione "Model" della procedura guidata, è possibile attivare il calcolo 
 
 
 
-<img src="../../.gitbook/assets/image (49).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (69).png" alt="" data-size="original">
 
 <br>
 

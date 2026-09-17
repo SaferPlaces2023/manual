@@ -16,7 +16,7 @@ Il pannello di apertura richiede all'utente di inserire tre parametri di input r
 
 Il flusso di lavoro per l'ingestione dei dati pluviometrici si basa sull'uso di PERSIANN-PDIR NOW [http://chrsdata.eng.uci.edu/](http://chrsdata.eng.uci.edu/).
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption><p>Mappe di intensità delle precipitazioni</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption><p>Mappe di intensità delle precipitazioni</p></figcaption></figure>
 
 
 
